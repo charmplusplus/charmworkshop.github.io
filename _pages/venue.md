@@ -1,8 +1,8 @@
 ---
 title:  ""
 layout: archive
-permalink: /Program/
+permalink: /Venue/
 author_profile: false
 ---
 
-To be announced.
+Brendan Iribe Center

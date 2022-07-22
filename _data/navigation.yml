@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /About/
-  - title: "Program"
+  - title: "Participate"
+    url: /CFP/
+  - title: "Agenda"
     url: /Program/
-  - title: "Information"
-    url: /Information/
+  - title: "Venue"
+    url: /Venue/
   - title: "Previous Workshops"
-    url: http://charm.cs.illinois.edu/workshops/
+    url: http://charm.cs.illinois.edu/workshops

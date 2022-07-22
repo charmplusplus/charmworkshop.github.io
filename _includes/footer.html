@@ -7,7 +7,7 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>{{ link.label }}</a></li>
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
         {% endif %}
       {% endfor %}
     {% endif %}
@@ -24,8 +24,8 @@
     {% if site.data.ui-text[site.locale].about_label %}
       <li><strong>{{ site.data.ui-text[site.locale].about_label }}</strong></li>
     {% endif %}
-    <li>Workshop Co-Chairs: "Authors Here"</li>
-    <li>Organized by the Parallel Programming Laboratory at the University of Illinois Urbana-Champaign</li>    
+    <li>Parallel Programming Laboratory at the University of Illinois Urbana-Champaign</li>
+    <li>Parallel Software and Systems Group at the University of Maryland</li>
   </ul>
 </div>
 

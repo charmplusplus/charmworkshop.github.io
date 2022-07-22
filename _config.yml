@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Charm++ Workshop 2022"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "PPL UIUC"
-description              : "20th iteration of the Charm++ Workshop"
-url                      : https://charmworkshop22.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "PPL @ UIUC"
+description              : "20th Annual Workshop on Charm++ and its Applications"
+url                      : "https://charmworkshop22.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : charmworkshop22/charmworkshop22.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "charmworkshop22/charmworkshop22.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,7 +104,7 @@ author:
   name             : "Charm++ Workshop"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "20th Annual Workshop on Charm++ and its Applications"
-  location         : "UMD"
+  location         : "College Park, MD"
   email            :
   links:
     - label: "Email"
@@ -129,10 +129,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: ""
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/CharmPlusPlus
-    - label: ""
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/charmplusplus
 
